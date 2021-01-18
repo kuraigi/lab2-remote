@@ -4,8 +4,9 @@
 **StudentID** : 61070174
 **Name** : Puwit Chuehcom
 
-> King mongkut's institute of technology ladkrabang
+> [IT @ KMITL](https://www.it.kmitl.ac.th/)
 
 ```c 
-print("hello word") 
+print("Hello world, IT @ KMITL") 
 ```
+[![It kmitl Logo](https://www.it.kmitl.ac.th/wp-content/themes/itkmitl2017wp/img/nav-thai.svg)](https://www.it.kmitl.ac.th/)
